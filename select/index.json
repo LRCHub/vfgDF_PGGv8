@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "街風",
+  "base_artist": "Jin Dogg",
+  "createdAt": "2025-12-09T14:34:56.309908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "街風 ft. GANGSTA TAKA, STICKY, NORIKIYO & 4WD",
+      "artist": "SEEDA",
+      "has_synced": false,
+      "path": "select/01_街風_ft._GANGSTA_TAKA,_STICKY,_NORIKIYO_&_4WD_SEEDA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "街風",
+      "artist": "Jin Dogg, REAL-T",
+      "has_synced": false,
+      "path": "select/pl_01_街風_Jin_Dogg,_REAL-T.txt"
+    }
+  ]
+}
